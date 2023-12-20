@@ -1,6 +1,6 @@
 # Homeworks
 
-Programming homeworks done on 1st and 2nd semesters of MIREA Applied Math
+Programming homeworks done during 1st and 2nd semesters of MIREA Applied Math
 ====
 
 -procedural programming
