@@ -11,4 +11,5 @@ all homeworks (bad code formatting) + extra task to get exempted: finding extrem
 all seminary .ipynb notebooks
 
 -no OOP C++ programming of 2nd semester (was done in Aurora proprietary software)
+
 ====
