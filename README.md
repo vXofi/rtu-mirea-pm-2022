@@ -9,5 +9,5 @@ all homeworks (bad code formatting) + extra task to get exempted: finding extrem
 -Artificial intelligence
 all seminary .ipynb notebooks
 
--no OOP C++ programming of 2nd semester (was done in Aurora proprietary software)
+-no C++ OOP of 2nd semester (was done in Aurora proprietary software)
 
